@@ -28,9 +28,9 @@
 most used social media</p>
 
 <p align="center">
-  <a href="https://www.instagram.com/acee_dt" target="_blank"><img src="https://img.shields.io/badge/-acee_dt-ocean?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/acee_dt" target="_blank"><img src="https://img.shields.io/badge/-acee_dt-purple?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@ace_dt2" target="_blank"><img src="https://img.shields.io/badge/-ace_dt2-blue?&style=for-the-badge&logo=Tiktok&logoColor=white"/></a>  
-  <a href="https://wa.me/6282193034480" target="_blank"><img src="https://img.shields.io/badge/-Acee_dt </>-green?&style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
+  <a href="https://wa.me/6282193034480" target="_blank"><img src="https://img.shields.io/badge/-Acee_dt </>-ocean?&style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 </p>
 </div>
 <br>
