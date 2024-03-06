@@ -8,7 +8,7 @@
   <h2 align="center"> 😼 ~ ABOUT ME ~ 😼 </h2>
 </div>
 <div align="center">
-  <img src="https://telegra.ph/file/60c57a2f7106d157eb9da.gif" align="right" width="20%">
+  <img src="https://telegra.ph/file/299f7ede3efaa416fe0ed.jpg" align="right" width="20%">
 </div>
 
 - 🌱 I’m currently learning **Nodejs, Javascript, HTML, CSS**
@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact: I really like **copying someone's code**
 
-- 📫 How to reach me **aced7893@gmail.com**
+- 📫 How to reach me **wa.me/6282193034480**
 
 <br>
 <h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
