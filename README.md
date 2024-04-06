@@ -11,7 +11,7 @@
   <img src="https://telegra.ph/file/299f7ede3efaa416fe0ed.jpg" align="right" width="20%">
 </div>
 
-- 🌱 I’m currently learning **Nodejs, Javascript, HTML, CSS**
+- 🌱 I’m currently learning **Nodejs, ExpressJs, HTML, CSS**
 
 - 👯 Collaborate with me on **WhatsApp**
 
